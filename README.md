@@ -127,9 +127,9 @@ docker run -d \
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
 
 ```
-
+```
 ## For run on AWS by clone
-
+```
 ```bash
 
 git clone https://github.com/VISHALVERMAGitHub/Flask-MySQL-App.git
