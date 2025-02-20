@@ -127,4 +127,15 @@ docker run -d \
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
 
 ```
-
+```
+##For run on AWS by clone
+```
+```bash
+git clone 
+```
+```bash
+make build  
+```
+```bash
+docker ps
+```
