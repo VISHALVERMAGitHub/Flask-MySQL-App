@@ -130,10 +130,8 @@ docker run -d \
 ```
 ## For run on AWS by clone
 ```
-```bash
-
+```
 git clone https://github.com/VISHALVERMAGitHub/Flask-MySQL-App.git
-
 ```
 ```bash
 make build  
