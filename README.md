@@ -128,10 +128,11 @@ docker run -d \
 
 ```
 ```
-##For run on AWS by clone
+## For run on AWS by clone
 ```
 ```bash
-git clone 
+git clone
+
 ```
 ```bash
 make build  
@@ -139,3 +140,4 @@ make build
 ```bash
 docker ps
 ```
+
